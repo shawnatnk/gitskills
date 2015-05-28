@@ -1,2 +1,4 @@
 #utf-8
-printf("hello world!")
+#include"stdio.h"
+printf("hello world!");
+
